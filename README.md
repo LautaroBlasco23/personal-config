@@ -2,7 +2,7 @@
 
 Because I mess up my OS every so often. So here are some things I maybe should remember every time I start over.
 
-I'm gonna update this repo every time I discovered a new cool thing.
+I'm gonna update this repo every time I discover a new cool thing.
 
 # Fedora 39:
 
